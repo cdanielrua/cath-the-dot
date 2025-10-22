@@ -3,6 +3,13 @@ Juego interactivo con cámara desarrollado en Python y OpenCV.
 
 ---
 
+## 🎥 Video de demostración
+
+Haz clic en la imagen para ver el video:
+
+[![Ver video en YouTube](https://img.youtube.com/vi/O1U1CJaBNZ8/0.jpg)](https://www.youtube.com/watch?v=O1U1CJaBNZ8)
+
+
 ## 🧠 Descripción general
 **Catch the Dot** es un juego de visión por computador que detecta un objeto de color frente a la cámara.  
 El jugador debe mover ese objeto (por ejemplo, una pelota o una tarjeta de color) para atrapar un punto azul que aparece en pantalla.  
